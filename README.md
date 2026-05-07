@@ -25,23 +25,25 @@ I am a detail-driven developer and coordinator with over 4 years of hands-on exp
 
 ## 🛠️ Skills
 
-- **[Languages & Frameworks](ca://s?q=Languages_and_Frameworks)**  
-  PHP (Laravel), JavaScript, TypeScript, React, Next.js
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- **[Frontend & Styling](ca://s?q=Frontend_and_Styling)**  
-  HTML, CSS, SASS, Tailwind CSS, Bootstrap, Radix UI
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **[State Management & Data](ca://s?q=State_Management_and_Data)**  
-  Zustand, Tanstack Query, Zod, MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-- **[CMS & E-Commerce](ca://s?q=CMS_and_E-Commerce)**  
-  WordPress, Shopify
-
-- **[Design & Multimedia](ca://s?q=Design_and_Multimedia)**  
-  UI/UX Design, Adobe Photoshop, Premiere Pro, After Effects
-
-- **[Development Tools](ca://s?q=Development_Tools)**  
-  Vite, Turbo, PNPM, DataTables
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ## 💼 Professional Experience
 
