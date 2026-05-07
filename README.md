@@ -6,15 +6,6 @@
 
 I am a detail-driven developer and coordinator with over 4 years of hands-on experience managing digital projects from concept to launch. I specialize in bridging the gap between technical execution and strategic oversight, ensuring user-focused deliverables that stay on brand and on time.
 
-## 🛠️ Technical Toolbox
-
-- **Languages & Frameworks**: PHP (Laravel), JavaScript, TypeScript, React, Next.js  
-- **Frontend & Styling**: HTML, CSS, SASS, Tailwind CSS, Bootstrap, Radix UI  
-- **State Management & Data**: Zustand, Tanstack Query, Zod, MySQL  
-- **CMS & E-Commerce**: WordPress, Shopify  
-- **Design & Multimedia**: UI/UX Design, Adobe Photoshop, Premiere Pro, After Effects  
-- **Development Tools**: Vite, Turbo, PNPM, DataTables  
-
 ## 📂 Featured Projects
 
 - **zentime** – A modern productivity app built with Next.js, TypeScript, and Tailwind CSS, featuring advanced state management with Zustand.  
