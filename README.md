@@ -61,7 +61,7 @@ I am a detail-driven developer and coordinator with over 4 years of hands-on exp
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Turbo](https://img.shields.io/badge/Turbo-000000?style=for-the-badge&logo=turbo&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![DataTables](https://img.shields.io/badge/DataTables-336791?style=for-the-badge&logo=datatables&logoColor=white
+![DataTables](https://img.shields.io/badge/DataTables-336791?style=for-the-badge&logo=datatables&logoColor=white)
 
 ## 💼 Professional Experience
 
