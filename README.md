@@ -5,8 +5,6 @@
 
 I am a detail-driven developer and coordinator with over 4 years of hands-on experience managing digital projects from concept to launch. I specialize in bridging the gap between technical execution and strategic oversight, ensuring user-focused deliverables that stay on brand and on time.
 
----
-
 ## 🛠️ Technical Toolbox
 
 - **Languages & Frameworks**: PHP (Laravel), JavaScript, TypeScript, React, Next.js  
@@ -16,8 +14,6 @@ I am a detail-driven developer and coordinator with over 4 years of hands-on exp
 - **Design & Multimedia**: UI/UX Design, Adobe Photoshop, Premiere Pro, After Effects  
 - **Development Tools**: Vite, Turbo, PNPM, DataTables  
 
----
-
 ## 📂 Featured Projects
 
 - **zentime** – A modern productivity app built with Next.js, TypeScript, and Tailwind CSS, featuring advanced state management with Zustand.  
@@ -26,8 +22,6 @@ I am a detail-driven developer and coordinator with over 4 years of hands-on exp
 - **wemaintenance** – A high-performance interface built using Vanilla JS.  
 - **weddingartv4bts** – A frontend organization platform for wedding ceremonies.  
 
----
-
 ## 💼 Professional Experience
 
 - **Referent / Coordinator Trainer @ Weshore Agency**  
@@ -35,8 +29,6 @@ I am a detail-driven developer and coordinator with over 4 years of hands-on exp
 
 - **Full-Stack Freelancer**  
   Delivering custom web applications, SEO optimization, and graphic design solutions for diverse clients.  
-
----
 
 ## 📫 Connect with Me
 
