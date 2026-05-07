@@ -21,7 +21,27 @@ I am a detail-driven developer and coordinator with over 4 years of hands-on exp
 - **supdecoproject** – A robust Student Management System developed for Sup de Co Marrakech using Laravel and MySQL, featuring automated certificate generation.  
 - **wp-devboard** – A specialized developer dashboard leveraging TypeScript and Vite.  
 - **wemaintenance** – A high-performance interface built using Vanilla JS.  
-- **weddingartv4bts** – A frontend organization platform for wedding ceremonies.  
+- **weddingartv4bts** – A frontend organization platform for wedding ceremonies.
+
+## 🛠️ Skills
+
+- **[Languages & Frameworks](ca://s?q=Languages_and_Frameworks)**  
+  PHP (Laravel), JavaScript, TypeScript, React, Next.js
+
+- **[Frontend & Styling](ca://s?q=Frontend_and_Styling)**  
+  HTML, CSS, SASS, Tailwind CSS, Bootstrap, Radix UI
+
+- **[State Management & Data](ca://s?q=State_Management_and_Data)**  
+  Zustand, Tanstack Query, Zod, MySQL
+
+- **[CMS & E-Commerce](ca://s?q=CMS_and_E-Commerce)**  
+  WordPress, Shopify
+
+- **[Design & Multimedia](ca://s?q=Design_and_Multimedia)**  
+  UI/UX Design, Adobe Photoshop, Premiere Pro, After Effects
+
+- **[Development Tools](ca://s?q=Development_Tools)**  
+  Vite, Turbo, PNPM, DataTables
 
 ## 💼 Professional Experience
 
