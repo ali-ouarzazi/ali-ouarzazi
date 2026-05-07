@@ -6,13 +6,13 @@
 
 I am a detail-driven developer and coordinator with over 4 years of hands-on experience managing digital projects from concept to launch. I specialize in bridging the gap between technical execution and strategic oversight, ensuring user-focused deliverables that stay on brand and on time.
 
-## 📂 Featured Projects
+## 📂 Featured Projects on GitHub
 
-- **zentime** – A modern productivity app built with Next.js, TypeScript, and Tailwind CSS, featuring advanced state management with Zustand.  
-- **supdecoproject** – A robust Student Management System developed for Sup de Co Marrakech using Laravel and MySQL, featuring automated certificate generation.  
-- **wp-devboard** – A specialized developer dashboard leveraging TypeScript and Vite.  
-- **wemaintenance** – A high-performance interface built using Vanilla JS.  
-- **weddingartv4bts** – A frontend organization platform for wedding ceremonies.
+- **zentime** > A modern productivity app built with Next.js, TypeScript, and Tailwind CSS, featuring advanced state management with Zustand.  
+- **supdecoproject** > A robust Student Management System developed for Sup de Co Marrakech using Laravel and MySQL, featuring automated certificate generation.  
+- **wp-devboard** > A specialized developer dashboard leveraging TypeScript and Vite.  
+- **wemaintenance** > A high-performance interface built using Vanilla JS.  
+- **weddingartv4bts** > A frontend organization platform for wedding ceremonies.
 
 ## 🛠️ Skills
 
