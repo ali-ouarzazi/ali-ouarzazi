@@ -4,7 +4,7 @@
 
 📍 Based in Marrakesh, Morocco  
 
-I am a detail-driven developer and coordinator with over 4 years of hands-on experience managing digital projects from concept to launch. I specialize in bridging the gap between technical execution and strategic oversight, ensuring user-focused deliverables that stay on brand and on time.
+I am a detail-driven developer and coordinator with over 5 years of hands-on experience managing digital projects from concept to launch. I specialize in bridging the gap between technical execution and strategic oversight, ensuring user-focused deliverables that stay on brand and on time.
 
 ## 📂 Featured Projects on GitHub
 
